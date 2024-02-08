@@ -1,4 +1,4 @@
-# Unit 5 - Financial Planning
+ Financial Planning
 
 ![Financial Planner](Images/financial-planner.png)
 
@@ -207,7 +207,3 @@ Try adjusting the portfolio to either include more risk (a higher stock than bon
 
 * Be well commented with concise, relevant notes that other developers can understand. (10 points)
 
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
